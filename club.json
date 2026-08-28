@@ -1,0 +1,98 @@
+[
+  {
+    "id": "c1",
+    "clubName": "AI & Robotics Club",
+    "category": "Technical",
+    "description": "Fostering hands-on development in machine learning, automation, and intelligent hardware solutions.",
+    "activities": ["AI workshops", "Robotics projects", "Competitions", "Hackathons"],
+    "requiredSkills": ["Python programming", "Problem solving", "Basic Electronics", "Programming"],
+    "meetingDays": ["Wednesday"],
+    "meetingTime": "17:00 - 19:00",
+    "location": "Innovation Lab, Block B - Room 204",
+    "membershipRequirements": "Open to all students interested in AI and hands-on robotics hardware."
+  },
+  {
+    "id": "c2",
+    "clubName": "Coding Club",
+    "category": "Technical",
+    "description": "The primary campus hub for competitive programming, web development, and peer coding sessions.",
+    "activities": ["Coding workshops", "Hackathons", "Programming competitions", "Projects"],
+    "requiredSkills": ["Python programming", "Problem solving", "Designing", "Programming"],
+    "meetingDays": ["Friday"],
+    "meetingTime": "16:00 - 18:00",
+    "location": "Computer Lab 3, IT Center",
+    "membershipRequirements": "Open to all proficiency levels. Curiosity for problem solving required."
+  },
+  {
+    "id": "c3",
+    "clubName": "Entrepreneurship Club",
+    "category": "Business",
+    "description": "Empowering young founders with pitch training, startup mentoring, and venture creation tools.",
+    "activities": ["Startup workshops", "Business competitions", "Entrepreneurship sessions", "Exhibitions"],
+    "requiredSkills": ["Public speaking", "Problem solving", "Management", "Designing"],
+    "meetingDays": ["Friday"],
+    "meetingTime": "17:00 - 19:00",
+    "location": "Incubation Hub, Main Building",
+    "membershipRequirements": "Pitch presentation required during entry orientation."
+  },
+  {
+    "id": "c4",
+    "clubName": "Photography Club",
+    "category": "Cultural",
+    "description": "Capturing campus moments, mastering visual storytelling, light design, and photo editing.",
+    "activities": ["Photography sessions", "Photo exhibitions", "Photography competitions", "Workshops"],
+    "requiredSkills": ["Photography", "Designing", "Visual storytelling"],
+    "meetingDays": ["Saturday"],
+    "meetingTime": "15:00 - 17:00",
+    "location": "Media Studio, Cultural Wing",
+    "membershipRequirements": "Bring your own camera or smartphone with manual controls."
+  },
+  {
+    "id": "c5",
+    "clubName": "E-Sports & Gaming Club",
+    "category": "Sports",
+    "description": "Organizing campus tournaments, streaming sessions, and game analysis workshops.",
+    "activities": ["Competitions", "Sports events", "Workshops"],
+    "requiredSkills": ["Problem solving", "Teamwork"],
+    "meetingDays": ["Saturday", "Sunday"],
+    "meetingTime": "14:00 - 18:00",
+    "location": "Student Activity Room 1",
+    "membershipRequirements": "Active interest in competitive or casual gaming."
+  },
+  {
+    "id": "c6",
+    "clubName": "Social Service League",
+    "category": "Social Service",
+    "description": "Driving local community initiatives, charity drives, and environmental sustainability campaigns.",
+    "activities": ["Social activities", "Exhibitions", "Workshops"],
+    "requiredSkills": ["Public speaking", "Problem solving", "Team coordination"],
+    "meetingDays": ["Sunday"],
+    "meetingTime": "10:00 - 13:00",
+    "location": "Student Union Conference Room",
+    "membershipRequirements": "Commitment to 10 hours of volunteer service per semester."
+  },
+  {
+    "id": "c7",
+    "clubName": "Design & Fine Arts Society",
+    "category": "Cultural",
+    "description": "A creative haven for UI/UX design, digital illustration, traditional painting, and art exhibitions.",
+    "activities": ["Exhibitions", "Workshops", "Projects"],
+    "requiredSkills": ["Designing", "Photography"],
+    "meetingDays": ["Thursday"],
+    "meetingTime": "16:30 - 18:30",
+    "location": "Art Studio, Humanities Wing",
+    "membershipRequirements": "Portfolio submission optional but encouraged."
+  },
+  {
+    "id": "c8",
+    "clubName": "Toastmasters & Orators Club",
+    "category": "Cultural",
+    "description": "Developing public speaking, debate, and executive leadership skills.",
+    "activities": ["Workshops", "Competitions"],
+    "requiredSkills": ["Public speaking", "Problem solving"],
+    "meetingDays": ["Tuesday"],
+    "meetingTime": "17:30 - 19:30",
+    "location": "Auditorium Hall B",
+    "membershipRequirements": "Open to all students looking to refine public speaking skills."
+  }
+]
